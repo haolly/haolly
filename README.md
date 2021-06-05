@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-[![Haolly's GitHub stats](https://github-readme-stats.vercel.app/api?username=haolly)](https://github.com/haolly/github-readme-stats)
+[![Haolly's github stats](https://github-readme-stats.vercel.app/api?username=haolly&count_private=true&show_icons=true&theme=merko)](https://github.com/haolly/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haolly)](https://github.com/haolly/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haolly&hide=HTML,Jupyter%20Notebook&layout=compact&count_private=true&show_icons=true&theme=merko)](https://github.com/haolly/github-readme-stats)
 
 <!--
 **haolly/haolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
