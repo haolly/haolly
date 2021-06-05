@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Haolly's GitHub stats](https://github-readme-stats.vercel.app/api?username=haolly)](https://github.com/haolly/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haolly)](https://github.com/haolly/github-readme-stats)
+
 <!--
 **haolly/haolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
